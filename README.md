@@ -1,7 +1,7 @@
 # Person Detection
 This is an assignment submission for CogniAble
 
-🛠️ This project utilizes OpenCV and the Python library **(face_recognition)** to update attendance based on individual facial features. Additionally, it generates a daily attendance record in a .csv file. <br>
+🛠️ This project utilizes YOLO model for person detection and mark them with a unique ID throughout the video. <br>
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -9,7 +9,7 @@ This is an assignment submission for CogniAble
 
 
 ## Output 
-The output videos is stored in the output/processed_videos folder
+The output videos is stored in the **output/processed_videos** folder
 
 ## Deployment
 
