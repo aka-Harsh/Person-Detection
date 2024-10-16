@@ -34,3 +34,9 @@ Finally run the app.py file:
 ```bash
   python main.py
 ```
+
+
+# Project Outlook
+
+![Screenshot 2024-10-16 203824](https://github.com/user-attachments/assets/a31ce987-f3fd-41b7-a970-a83c266c33d7)
+![Screenshot 2024-10-16 203839](https://github.com/user-attachments/assets/9481290a-ab35-4447-a03e-05950f95a453)
